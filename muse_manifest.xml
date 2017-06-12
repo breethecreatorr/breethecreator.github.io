@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.com" resolutions="1x" timestamp="1497277700006">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1497291633306">
   <folder name="css">
     <file name="site_global.css" crc="488936552"/>
     <file name="home-copy.css" crc="3910930784" ref="home-copy"/>
-    <file name="index.css" crc="3775552557" ref="index"/>
+    <file name="index.css" crc="3857094892" ref="index"/>
     <file name="iefonts_index.css" crc="3782616085" ref="index"/>
     <file name="photography.css" crc="54413657" ref="photography"/>
   </folder>
@@ -35,7 +35,6 @@
     <file name="3c241a_88a8cf1a500a446284e4485bf20e34fb-mv2.jpg" crc="496997327" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u7402-11.png" crc="406958839" ref="index"/>
     <file name="u2906-4.png" crc="159155168" ref="index"/>
     <file name="u2910-4.png" crc="397778813" ref="index"/>
     <file name="u2940-4.png" crc="519107872" ref="index"/>
@@ -260,8 +259,9 @@
     <file name="3c241a_445bfbcea55145689d2f1a44cabc65a9325x210.jpg" crc="4257247001" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u7402-8.png" crc="267873558" ref="index"/>
   </folder>
-  <file name="index.html" crc="505554291" seo="true" mt="1497277648448" redirect="true"/>
+  <file name="index.html" crc="4112384378" seo="true" mt="1497291568806" redirect="true"/>
   <file name="photography.html" crc="4225475185" seo="true" mt="1495657535956" redirect="true"/>
   <file name="home-copy.html" crc="3902606527" seo="true" mt="1495657545490" redirect="true"/>
 </manifest>
