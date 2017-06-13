@@ -17,6 +17,12 @@
     <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_ad8b1c09b30a427bb63ed5b405167aad.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://Breethecreatorr.io/photography.html</loc>
+    <lastmod>2017-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_6af4fb566bc44fdd808374aa6c2b8d1e.jpg</image:loc>
     </image:image>
@@ -99,9 +105,6 @@
       <image:loc>http://Breethecreatorr.io/images/3c241a_1015252f241e481e8a0842af572f3a4e298x199.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_50dc698676bf48a0aee25c55d190c403-crop-u3240.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_79ce89c41a144c1dbc023bc46bb9b3e6298x197.png</image:loc>
     </image:image>
     <image:image>
@@ -112,9 +115,6 @@
     </image:image>
     <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_efa388486a7741af9e6611488de8a661298x199.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_b9ae5ed08bb7447da57d31502e6fcbae-crop-u3340.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_ddd091f36aa745f5b8cb502e5e35b7a0298x199.png</image:loc>
@@ -141,20 +141,44 @@
       <image:loc>http://Breethecreatorr.io/images/3c241a_04985b9f99334c138f268199e06b409a-mv2_d_3264_4928_s_4_2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_5bd4289cfa4d44f3b9efd163da59af7e-mv2_d_3264_4928_s_4_2-crop-u4317.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_5c29546bf66346a5a3006d03d1936d10-mv2_d_4928_3264_s_4_2298x198.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_8cc560de057e4a5f88a3eb5508add7bc-mv2_d_4928_3264_s_4_2298x198.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_98f2c238bd824326adaf3a67c20d2aa2-mv2_d_3264_4928_s_4_2-crop-u4377.jpg</image:loc>
+      <image:loc>http://Breethecreatorr.io/images/3c241a_50dc698676bf48a0aee25c55d190c403-crop-u8344.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_04985b9f99334c138f268199e06b409a-mv2_d_3264_4928_s_4_2-crop-u4397.jpg</image:loc>
+      <image:loc>http://Breethecreatorr.io/images/3c241a_b9ae5ed08bb7447da57d31502e6fcbae-crop-u8334.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://Breethecreatorr.io/images/3c241a_5bd4289cfa4d44f3b9efd163da59af7e-mv2_d_3264_4928_s_4_2-crop-u8387.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Breethecreatorr.io/images/3c241a_98f2c238bd824326adaf3a67c20d2aa2-mv2_d_3264_4928_s_4_2-crop-u8391.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Breethecreatorr.io/images/3c241a_04985b9f99334c138f268199e06b409a-mv2_d_3264_4928_s_4_2-crop-u8383.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Breethecreatorr.io/bbp.html</loc>
+    <lastmod>2017-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Breethecreatorr.io/video.html</loc>
+    <lastmod>2017-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Breethecreatorr.io/graphic-design.html</loc>
+    <lastmod>2017-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_8e0a6b9a333844ce861f2a6b2fcad2df.jpg</image:loc>
     </image:image>
@@ -171,115 +195,19 @@
       <image:loc>http://Breethecreatorr.io/images/3c241a_d5db6dded9e54eee84e776bbddf8ada0.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_8e0a6b9a333844ce861f2a6b2fcad2df-crop-u6924.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_43b48c9573ad481e9d17464f49cf6dc4-crop-u7054.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_d5db6dded9e54eee84e776bbddf8ada0-crop-u7132.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_105d8fc6710f447db4f54ebefb2b39ba325x210.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_445bfbcea55145689d2f1a44cabc65a9325x210.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://Breethecreatorr.io/photography.html</loc>
-    <lastmod>2017-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Breethecreatorr.io/home-copy.html</loc>
-    <lastmod>2017-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_6af4fb566bc44fdd808374aa6c2b8d1e.jpg</image:loc>
+      <image:loc>http://Breethecreatorr.io/images/3c241a_8e0a6b9a333844ce861f2a6b2fcad2df-crop-u8934.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_6eb53dc61ada47d1ac62bb51f003df96.png</image:loc>
+      <image:loc>http://Breethecreatorr.io/images/3c241a_43b48c9573ad481e9d17464f49cf6dc4-crop-u8942.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_6fa3f44afc3f48a6954278352e0eac89.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_7f6c28b3b7154b79a3b226587c15b01b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_c25e3d2ee1114e3d9a0a4907aa59711f.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_9d7c96b01bba42a287a4bd3b5a77c9b9.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_adbc538857de4474be69acae49ec31cb.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_12b5db0b45ca4ca1964c32f3863bc0d8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_1015252f241e481e8a0842af572f3a4e.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_50dc698676bf48a0aee25c55d190c403.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_79ce89c41a144c1dbc023bc46bb9b3e6.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_851b1bfac9914f3da5709a2c7258e27d.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_a3fde9d19e3e46129617a74832e47207.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_efa388486a7741af9e6611488de8a661.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_b9ae5ed08bb7447da57d31502e6fcbae.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_ddd091f36aa745f5b8cb502e5e35b7a0.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_ed945581fed14e9d8efe0a3af50d5da0.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_fb13d92b75c84a8dabc01851aa59296d.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_5bd4289cfa4d44f3b9efd163da59af7e-mv2_d_3264_4928_s_4_2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_5c29546bf66346a5a3006d03d1936d10-mv2_d_4928_3264_s_4_2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_8cc560de057e4a5f88a3eb5508add7bc-mv2_d_4928_3264_s_4_2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_98f2c238bd824326adaf3a67c20d2aa2-mv2_d_3264_4928_s_4_2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_04985b9f99334c138f268199e06b409a-mv2_d_3264_4928_s_4_2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_50dc698676bf48a0aee25c55d190c403-crop-u6153.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_b9ae5ed08bb7447da57d31502e6fcbae-crop-u6127.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_5bd4289cfa4d44f3b9efd163da59af7e-mv2_d_3264_4928_s_4_2-crop-u6214.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_98f2c238bd824326adaf3a67c20d2aa2-mv2_d_3264_4928_s_4_2-crop-u6220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_04985b9f99334c138f268199e06b409a-mv2_d_3264_4928_s_4_2-crop-u6216.jpg</image:loc>
+      <image:loc>http://Breethecreatorr.io/images/3c241a_d5db6dded9e54eee84e776bbddf8ada0-crop-u8938.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
