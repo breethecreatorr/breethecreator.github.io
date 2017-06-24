@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://Breethecreatorr.io/index.html</loc>
-    <lastmod>2017-06-12</lastmod>
+    <lastmod>2017-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>http://Breethecreatorr.io/photography.html</loc>
-    <lastmod>2017-06-12</lastmod>
+    <lastmod>2017-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -164,19 +164,19 @@
   </url>
   <url>
     <loc>http://Breethecreatorr.io/bbp.html</loc>
-    <lastmod>2017-06-12</lastmod>
+    <lastmod>2017-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Breethecreatorr.io/video.html</loc>
-    <lastmod>2017-06-12</lastmod>
+    <lastmod>2017-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Breethecreatorr.io/graphic-design.html</loc>
-    <lastmod>2017-06-12</lastmod>
+    <lastmod>2017-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -192,9 +192,6 @@
       <image:loc>http://Breethecreatorr.io/images/3c241a_445bfbcea55145689d2f1a44cabc65a9.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_d5db6dded9e54eee84e776bbddf8ada0.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_105d8fc6710f447db4f54ebefb2b39ba325x210.jpg</image:loc>
     </image:image>
     <image:image>
@@ -205,9 +202,6 @@
     </image:image>
     <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_43b48c9573ad481e9d17464f49cf6dc4-crop-u8942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/3c241a_d5db6dded9e54eee84e776bbddf8ada0-crop-u8938.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

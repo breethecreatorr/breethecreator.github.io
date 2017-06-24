@@ -10,13 +10,13 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "jquery.scrolleffects.js", "require.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "photography.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.scrolleffects.js", "require.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "photography.css"], "outOfDate":[]};
 </script>
   
   <title>Photography</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=488936552"/>
-  <link rel="stylesheet" type="text/css" href="css/photography.css?crc=3777075998" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4092484445"/>
+  <link rel="stylesheet" type="text/css" href="css/photography.css?crc=64886856" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -33,7 +33,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <div class="position_content" id="page_position_content">
     <a class="anchor_item colelem" id="home"></a>
     <div class="browser_width mse_pre_init" id="u7619-bw">
-     <div class="ose_pre_init" id="u7619"><!-- simple frame --></div>
+     <div class="rgba-background ose_pre_init" id="u7619"><!-- simple frame --></div>
     </div>
     <nav class="MenuBar clearfix ose_pre_init mse_pre_init" id="menuu8127"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem" id="u8163"><!-- vertical box -->
@@ -274,9 +274,9 @@ Muse.Utils.initWidget('#slideshowu8272', ['#bp_infinity'], function(elem) { var 
 Muse.Utils.initWidget('#slideshowu8374', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:false,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:true,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu8374 */
 Muse.Utils.initWidget('#pamphletu8258', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:2500,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:2500,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu8258 */
 $('#u7619-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,0.05]},{"speed":[null,0],"in":[0.05,Infinity]}]);/* scroll effect */
-$('#u7619').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,0.05],"opacity":0},{"opacity":100,"in":[0.05,0.05]},{"fade":50,"in":[0.05,Infinity],"opacity":100}]);/* scroll effect */
+$('#u7619').registerOpacityScrollEffect([{"fade":50,"opacity":0,"in":[-Infinity,0.05]},{"opacity":100,"in":[0.05,0.05]},{"fade":50,"opacity":100,"in":[0.05,Infinity]}]);/* scroll effect */
 $('#menuu8127').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-2]},{"speed":[0,0],"in":[-2,Infinity]}]);/* scroll effect */
-$('#menuu8127').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,-2],"opacity":0},{"opacity":100,"in":[-2,-2]},{"fade":50,"in":[-2,Infinity],"opacity":100}]);/* scroll effect */
+$('#menuu8127').registerOpacityScrollEffect([{"fade":50,"opacity":0,"in":[-Infinity,-2]},{"opacity":100,"in":[-2,-2]},{"fade":50,"opacity":100,"in":[-2,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

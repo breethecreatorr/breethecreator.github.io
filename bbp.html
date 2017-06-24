@@ -15,8 +15,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>BBP</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=488936552"/>
-  <link rel="stylesheet" type="text/css" href="css/bbp.css?crc=4201707750" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4092484445"/>
+  <link rel="stylesheet" type="text/css" href="css/bbp.css?crc=121010331" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -32,7 +32,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
     <div class="browser_width mse_pre_init" id="u6236-bw">
-     <div class="ose_pre_init" id="u6236"><!-- simple frame --></div>
+     <div class="rgba-background ose_pre_init" id="u6236"><!-- simple frame --></div>
     </div>
     <a class="anchor_item colelem" id="home"></a>
     <nav class="MenuBar clearfix ose_pre_init mse_pre_init" id="menuu7741"><!-- horizontal box -->
@@ -64,10 +64,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix colelem" id="u7870-5"><!-- content -->
      <p><span id="u7870">BBP or better known</span><span id="u7870-2"> as Black Business Promotion brings awareness to the skillful black business owners we have today. Every two weeks Bree Kelly selects a black business owner, whether it be a designer, rapper, or an artist, and she show cases them. If you are interested, in being on the next episode, please&nbsp; email her.</span></p>
     </div>
-    <div class="clearfix colelem" id="pu6037"><!-- group -->
-     <div class="browser_width grpelem" id="u6037-bw">
-      <div id="u6037"><!-- column -->
-       <div class="clearfix" id="u6037_align_to_page">
+    <a class="nonblock nontext colelem" id="u9512-4" href="https://www.youtube.com/channel/UC8havsSkCHRDs5DIhUn-8SA" target="_blank" title="Youtube"><!-- rasterized frame --><img id="u9512-4_img" alt="Youtube Channel" title="Youtube" width="290" height="47" src="images/u9512-4.png?crc=4030177021"/></a>
+    <div class="browser_width colelem" id="u6037-bw">
+     <div id="u6037"><!-- column -->
+      <div class="clearfix" id="u6037_align_to_page">
+       <div class="position_content" id="u6037_position_content">
+        <div class="colelem" id="u7876"><!-- custom html -->
+         <iframe width="854" height="480" src="https://www.youtube.com/embed/jR9m0ZdL3Sk" frameborder="0" allowfullscreen></iframe>
+        </div>
         <div class="clearfix colelem" id="u7916"><!-- column -->
          <div class="clearfix colelem" id="pu7881-4"><!-- group -->
           <img class="grpelem" id="u7881-4" alt="Episode 1: Chazz (Twozz)" width="310" height="38" src="images/u7881-4.png?crc=159155168"/><!-- rasterized frame -->
@@ -99,11 +103,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
      </div>
-     <div class="grpelem" id="u7876"><!-- custom html -->
-      <iframe width="854" height="480" src="https://www.youtube.com/embed/jR9m0ZdL3Sk" frameborder="0" allowfullscreen></iframe>
-     </div>
     </div>
-    <div class="verticalspacer" data-offset-top="2110" data-content-above-spacer="2110" data-content-below-spacer="62"></div>
+    <div class="verticalspacer" data-offset-top="2110" data-content-above-spacer="2110" data-content-below-spacer="470"></div>
    </div>
   </div>
   <!-- Other scripts -->
@@ -121,9 +122,9 @@ Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized');
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 $('#u6236-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,-61.95]},{"speed":[null,0],"in":[-61.95,Infinity]}]);/* scroll effect */
-$('#u6236').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,-61.95],"opacity":0},{"opacity":100,"in":[-61.95,-61.95]},{"fade":50,"in":[-61.95,Infinity],"opacity":100}]);/* scroll effect */
+$('#u6236').registerOpacityScrollEffect([{"fade":50,"opacity":0,"in":[-Infinity,-61.95]},{"opacity":100,"in":[-61.95,-61.95]},{"fade":50,"opacity":100,"in":[-61.95,Infinity]}]);/* scroll effect */
 $('#menuu7741').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-64]},{"speed":[0,0],"in":[-64,Infinity]}]);/* scroll effect */
-$('#menuu7741').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,-64],"opacity":0},{"opacity":100,"in":[-64,-64]},{"fade":50,"in":[-64,Infinity],"opacity":100}]);/* scroll effect */
+$('#menuu7741').registerOpacityScrollEffect([{"fade":50,"opacity":0,"in":[-Infinity,-64]},{"opacity":100,"in":[-64,-64]},{"fade":50,"opacity":100,"in":[-64,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

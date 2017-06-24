@@ -1,12 +1,11 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1497319893556">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1498342523324">
   <folder name="css">
-    <file name="site_global.css" crc="488936552"/>
-    <file name="index.css" crc="3840409941" ref="index"/>
-    <file name="iefonts_index.css" crc="4045315905" ref="index"/>
-    <file name="photography.css" crc="3777075998" ref="photography"/>
-    <file name="bbp.css" crc="4201707750" ref="bbp"/>
-    <file name="video.css" crc="483514100" ref="video"/>
-    <file name="graphic-design.css" crc="358481964" ref="graphic-design"/>
+    <file name="site_global.css" crc="4092484445"/>
+    <file name="index.css" crc="521689559" ref="index"/>
+    <file name="photography.css" crc="64886856" ref="photography"/>
+    <file name="bbp.css" crc="121010331" ref="bbp"/>
+    <file name="video.css" crc="3929051175" ref="video"/>
+    <file name="graphic-design.css" crc="198378344" ref="graphic-design"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photography:bbp:video:graphic-design"/>
@@ -15,14 +14,10 @@
     <file name="museconfig.js" crc="4152223963" ref="index:photography:bbp:video:graphic-design"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:photography:bbp:video:graphic-design"/>
     <file name="jquery.musemenu.js" crc="38860304" ref="index:bbp:photography:video:graphic-design"/>
-    <file name="webpro.js" crc="3770351119" ref="index:photography:graphic-design"/>
+    <file name="webpro.js" crc="3770351119" ref="photography:graphic-design"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="photography:graphic-design"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="photography:graphic-design"/>
     <file name="touchswipe.js" crc="3912873526" ref="photography:graphic-design"/>
-    <file name="form_check.php" crc="3841221102" ref="index"/>
-    <file name="form_throttle.php" crc="4048049783" ref="index"/>
-    <file name="form_process.php" crc="3899230280" ref="index"/>
-    <file name="form-u1966.php" crc="4073916320" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="146279342" ref="index:bbp:photography:video:graphic-design"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:photography:bbp:video:graphic-design"/>
     <file name="require.js" crc="4234670167" ref="index:photography:bbp:video:graphic-design"/>
@@ -43,93 +38,93 @@
     <file name="blank.gif" crc="4208392903" ref="photography:graphic-design"/>
     <file name="3c241a_6af4fb566bc44fdd808374aa6c2b8d1e.jpg" crc="4121037474" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_6eb53dc61ada47d1ac62bb51f003df96.png" crc="3904361793" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_6fa3f44afc3f48a6954278352e0eac89.png" crc="177592094" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_7f6c28b3b7154b79a3b226587c15b01b.png" crc="494041033" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_c25e3d2ee1114e3d9a0a4907aa59711f.png" crc="4005714792" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_9d7c96b01bba42a287a4bd3b5a77c9b9.png" crc="4094620859" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_adbc538857de4474be69acae49ec31cb.png" crc="4268092683" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_12b5db0b45ca4ca1964c32f3863bc0d8.jpg" crc="141373776" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_1015252f241e481e8a0842af572f3a4e.png" crc="4192400958" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_50dc698676bf48a0aee25c55d190c403.jpg" crc="30174162" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_79ce89c41a144c1dbc023bc46bb9b3e6.png" crc="427056030" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_851b1bfac9914f3da5709a2c7258e27d.png" crc="94230727" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_a3fde9d19e3e46129617a74832e47207.png" crc="394855993" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_efa388486a7741af9e6611488de8a661.png" crc="4122170168" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_b9ae5ed08bb7447da57d31502e6fcbae.jpg" crc="71237484" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_ddd091f36aa745f5b8cb502e5e35b7a0.png" crc="110055820" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_ed945581fed14e9d8efe0a3af50d5da0.png" crc="93156425" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_fb13d92b75c84a8dabc01851aa59296d.png" crc="4168164641" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_6af4fb566bc44fdd808374aa6c2b8d1e298x199.jpg" crc="3991600593" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
@@ -198,28 +193,28 @@
     <file name="loading.gif" crc="3815509949" ref="photography:graphic-design"/>
     <file name="3c241a_5bd4289cfa4d44f3b9efd163da59af7e-mv2_d_3264_4928_s_4_2.jpg" crc="96106297" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_5c29546bf66346a5a3006d03d1936d10-mv2_d_4928_3264_s_4_2.jpg" crc="158734207" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_8cc560de057e4a5f88a3eb5508add7bc-mv2_d_4928_3264_s_4_2.jpg" crc="3967532524" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_98f2c238bd824326adaf3a67c20d2aa2-mv2_d_3264_4928_s_4_2.jpg" crc="3794163374" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_04985b9f99334c138f268199e06b409a-mv2_d_3264_4928_s_4_2.jpg" crc="38202997" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="3c241a_5c29546bf66346a5a3006d03d1936d10-mv2_d_4928_3264_s_4_2298x198.jpg" crc="3884482077" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
@@ -242,10 +237,6 @@
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="3c241a_445bfbcea55145689d2f1a44cabc65a9.jpg" crc="4280460197" seo="true" ref="graphic-design">
-      <caption webpage="index" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="3c241a_d5db6dded9e54eee84e776bbddf8ada0.jpg" crc="427467318" seo="true" ref="graphic-design">
       <caption webpage="index" alt=""/>
       <caption webpage="graphic-design" alt=""/>
     </file>
@@ -291,13 +282,11 @@
     <file name="3c241a_43b48c9573ad481e9d17464f49cf6dc4-crop-u8942.jpg" crc="43153721" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="3c241a_d5db6dded9e54eee84e776bbddf8ada0-crop-u8938.jpg" crc="72535509" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
+    <file name="u9512-4.png" crc="4030177021" ref="bbp"/>
   </folder>
-  <file name="index.html" crc="4039430449" seo="true" mt="1497319565435" redirect="true"/>
-  <file name="photography.html" crc="313897272" seo="true" mt="1497319680281" redirect="true"/>
-  <file name="bbp.html" crc="3814253653" seo="true" mt="1497319622707" redirect="true"/>
-  <file name="video.html" crc="71991433" seo="true" mt="1497314734662" redirect="true"/>
-  <file name="graphic-design.html" crc="456080871" seo="true" mt="1497319773716" redirect="true"/>
+  <file name="index.html" crc="3971193147" seo="true" mt="1498341937202" redirect="true"/>
+  <file name="photography.html" crc="3923103874" seo="true" mt="1498342177687" redirect="true"/>
+  <file name="bbp.html" crc="483724562" seo="true" mt="1498342510795" redirect="true"/>
+  <file name="video.html" crc="273248892" seo="true" mt="1498342117574" redirect="true"/>
+  <file name="graphic-design.html" crc="78724491" seo="true" mt="1498342128539" redirect="true"/>
 </manifest>

@@ -10,13 +10,13 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "jquery.scrolleffects.js", "require.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "graphic-design.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.scrolleffects.js", "require.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "graphic-design.css"], "outOfDate":[]};
 </script>
   
   <title>Graphic Design</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=488936552"/>
-  <link rel="stylesheet" type="text/css" href="css/graphic-design.css?crc=358481964" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4092484445"/>
+  <link rel="stylesheet" type="text/css" href="css/graphic-design.css?crc=198378344" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -32,7 +32,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
     <div class="browser_width mse_pre_init" id="u8046-bw">
-     <div class="ose_pre_init" id="u8046"><!-- simple frame --></div>
+     <div class="rgba-background ose_pre_init" id="u8046"><!-- simple frame --></div>
     </div>
     <a class="anchor_item colelem" id="home"></a>
     <nav class="MenuBar clearfix ose_pre_init mse_pre_init" id="menuu8778"><!-- horizontal box -->
@@ -55,14 +55,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u8817" href="index.html#contact"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u8819-4"><!-- content --><p>Contact</p></div></a>
      </div>
     </nav>
+    <div class="clearfix colelem" id="u9237-4"><!-- content -->
+     <p>Graphic design</p>
+    </div>
     <div class="clearfix colelem" id="pu8120"><!-- group -->
      <div class="browser_width grpelem" id="u8120-bw">
       <div id="u8120"><!-- simple frame --></div>
      </div>
      <div class="clearfix grpelem" id="u9034"><!-- column -->
-      <div class="clearfix colelem" id="u8909-4"><!-- content -->
-       <p>Previous Work</p>
-      </div>
       <div class="clearfix colelem" id="u8908-5"><!-- content -->
        <p id="u8908">&nbsp;</p>
        <p id="u8908-3">Previous PhotoShop &amp; InDesign Work</p>
@@ -85,9 +85,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
          <div class="SSSlide invi clip_frame grpelem" id="u8916"><!-- image -->
           <img class="block ImageInclude" id="u8916_img" data-src="images/3c241a_445bfbcea55145689d2f1a44cabc65a9.jpg?crc=4280460197" src="images/blank.gif?crc=4208392903" alt="" data-width="822" data-height="532"/>
          </div>
-         <div class="SSSlide invi clip_frame grpelem" id="u8918"><!-- image -->
-          <img class="block ImageInclude" id="u8918_img" data-src="images/3c241a_d5db6dded9e54eee84e776bbddf8ada0.jpg?crc=427467318" src="images/blank.gif?crc=4208392903" alt="" data-width="411" data-height="532"/>
-         </div>
         </div>
        </div>
        <div class="popup_anchor" id="u8933popup">
@@ -103,9 +100,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
          </div>
          <div class="SSSlideLink clip_frame clearfix grpelem" id="u8940"><!-- image -->
           <img class="position_content" id="u8940_img" src="images/3c241a_445bfbcea55145689d2f1a44cabc65a9325x210.jpg?crc=4257247001" alt="" width="325" height="210"/>
-         </div>
-         <div class="SSSlideLink clip_frame grpelem" id="u8938"><!-- image -->
-          <img class="block" id="u8938_img" src="images/3c241a_d5db6dded9e54eee84e776bbddf8ada0-crop-u8938.jpg?crc=72535509" alt="" width="280" height="210"/>
          </div>
         </div>
        </div>
@@ -138,9 +132,9 @@ Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#slideshowu8910', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:false,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:true,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu8910 */
 $('#u8046-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,-61.95]},{"speed":[null,0],"in":[-61.95,Infinity]}]);/* scroll effect */
-$('#u8046').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,-61.95],"opacity":0},{"opacity":100,"in":[-61.95,-61.95]},{"fade":50,"in":[-61.95,Infinity],"opacity":100}]);/* scroll effect */
+$('#u8046').registerOpacityScrollEffect([{"fade":50,"opacity":0,"in":[-Infinity,-61.95]},{"opacity":100,"in":[-61.95,-61.95]},{"fade":50,"opacity":100,"in":[-61.95,Infinity]}]);/* scroll effect */
 $('#menuu8778').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-64]},{"speed":[0,0],"in":[-64,Infinity]}]);/* scroll effect */
-$('#menuu8778').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,-64],"opacity":0},{"opacity":100,"in":[-64,-64]},{"fade":50,"in":[-64,Infinity],"opacity":100}]);/* scroll effect */
+$('#menuu8778').registerOpacityScrollEffect([{"fade":50,"opacity":0,"in":[-Infinity,-64]},{"opacity":100,"in":[-64,-64]},{"fade":50,"opacity":100,"in":[-64,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
