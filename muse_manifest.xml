@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1500515796012">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1502019401646">
   <folder name="css">
-    <file name="site_global.css" crc="4092484445"/>
+    <file name="site_global.css" crc="354710375"/>
     <file name="photography.css" crc="4029833692" ref="photography"/>
-    <file name="graphic-design.css" crc="3961949455" ref="graphic-design"/>
+    <file name="graphic-design.css" crc="346901042" ref="graphic-design"/>
     <file name="bbp.css" crc="116388519" ref="bbp"/>
     <file name="video.css" crc="151744905" ref="video"/>
     <file name="index.css" crc="501973629" ref="index"/>
@@ -42,10 +42,10 @@
       <caption webpage="video" alt=""/>
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
-      <caption webpage="bbp" alt=""/>
-      <caption webpage="bbp" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="bbp" alt=""/>
+      <caption webpage="bbp" alt=""/>
     </file>
     <file name="youtube.png" crc="402982861" ref="index:bbp:photography:video:graphic-design">
       <caption webpage="index" alt=""/>
@@ -54,10 +54,10 @@
       <caption webpage="video" alt=""/>
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
-      <caption webpage="bbp" alt=""/>
-      <caption webpage="bbp" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="bbp" alt=""/>
+      <caption webpage="bbp" alt=""/>
     </file>
     <file name="u9512-4.png" crc="4030177021" ref="bbp"/>
     <file name="u7881-4.png" crc="159155168" ref="bbp"/>
@@ -445,10 +445,22 @@
     <file name="victoria14291x194.jpg" crc="369279190" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
+    <file name="erica-pinkett flyer.jpg" crc="403127449" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="denasiabdayflyer.jpg" crc="177162696" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="erica-pinkett flyer315x210.jpg" crc="251535690" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="denasiabdayflyer-crop-u18657.jpg" crc="107098911" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4216900940" seo="true" mt="1500511424472" redirect="true"/>
   <file name="bbp.html" crc="63571518" seo="true" mt="1500511856032" redirect="true"/>
   <file name="photography.html" crc="4061719825" seo="true" mt="1500515763516" redirect="true"/>
   <file name="video.html" crc="3849718009" seo="true" mt="1500512754608" redirect="true"/>
-  <file name="graphic-design.html" crc="3906772768" seo="true" mt="1500512801052" redirect="true"/>
+  <file name="graphic-design.html" crc="313633976" seo="true" mt="1502019295181" redirect="true"/>
 </manifest>
