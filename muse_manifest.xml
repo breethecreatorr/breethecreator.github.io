@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1502019401646">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1502082436229">
   <folder name="css">
     <file name="site_global.css" crc="354710375"/>
     <file name="photography.css" crc="4029833692" ref="photography"/>
     <file name="graphic-design.css" crc="346901042" ref="graphic-design"/>
-    <file name="bbp.css" crc="116388519" ref="bbp"/>
+    <file name="bbp.css" crc="4141288988" ref="bbp"/>
     <file name="video.css" crc="151744905" ref="video"/>
     <file name="index.css" crc="501973629" ref="index"/>
   </folder>
@@ -459,7 +459,7 @@
     </file>
   </folder>
   <file name="index.html" crc="4216900940" seo="true" mt="1500511424472" redirect="true"/>
-  <file name="bbp.html" crc="63571518" seo="true" mt="1500511856032" redirect="true"/>
+  <file name="bbp.html" crc="468629240" seo="true" mt="1502082416652" redirect="true"/>
   <file name="photography.html" crc="4061719825" seo="true" mt="1500515763516" redirect="true"/>
   <file name="video.html" crc="3849718009" seo="true" mt="1500512754608" redirect="true"/>
   <file name="graphic-design.html" crc="313633976" seo="true" mt="1502019295181" redirect="true"/>
