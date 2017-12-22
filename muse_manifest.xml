@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1502082436229">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1513914593878">
   <folder name="css">
-    <file name="site_global.css" crc="354710375"/>
-    <file name="photography.css" crc="4029833692" ref="photography"/>
+    <file name="site_global.css" crc="4210571852"/>
+    <file name="photography.css" crc="3805622318" ref="photography"/>
     <file name="graphic-design.css" crc="346901042" ref="graphic-design"/>
     <file name="bbp.css" crc="4141288988" ref="bbp"/>
     <file name="video.css" crc="151744905" ref="video"/>
-    <file name="index.css" crc="501973629" ref="index"/>
+    <file name="index.css" crc="25534745" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bbp:photography:video:graphic-design"/>
@@ -220,19 +220,19 @@
     <file name="3c241a_2e12960c0e714f6685c021044e959619-mv2_d_4928_3264_s_4_2298x198.jpg" crc="349198994" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="3c241a_4b24f9d732a541abaafedd1aae8621d9-mv2_d_3264_4928_s_4_2 (1)-crop-u9855.jpg" crc="11794578" seo="true" ref="photography">
+    <file name="3c241a_4b24f9d732a541abaafedd1aae8621d9-mv2_d_3264_4928_s_4_2 (1)-crop-u9855.jpg" crc="509916893" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="3c241a_5b3b0a912ff44a419dc4cfb19d9d3d9a-mv2_d_3264_4928_s_4_2-crop-u9915.jpg" crc="4267933005" seo="true" ref="photography">
+    <file name="3c241a_5b3b0a912ff44a419dc4cfb19d9d3d9a-mv2_d_3264_4928_s_4_2-crop-u9915.jpg" crc="4003617763" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="3c241a_1443fd37fac04df791243d244af8c716-mv2_d_3264_4928_s_4_2-crop-u9955.jpg" crc="376409968" seo="true" ref="photography">
+    <file name="3c241a_1443fd37fac04df791243d244af8c716-mv2_d_3264_4928_s_4_2-crop-u9955.jpg" crc="4073253973" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="3c241a_9ea12b951b21464fa52c2cdf869bb35b-mv2_d_4928_3264_s_4_2.jpg" crc="4051684356" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="3c241a_ae721c7f9f50453eb7ff7e2a131fcb14-mv2_d_3264_4928_s_4_2-crop-u10651.jpg" crc="4145606796" seo="true" ref="photography">
+    <file name="3c241a_ae721c7f9f50453eb7ff7e2a131fcb14-mv2_d_3264_4928_s_4_2-crop-u10651.jpg" crc="498527689" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="3c241a_d46539d2968247cca3ca64aa551019b5-mv2_d_4928_3264_s_4_2.jpg" crc="3966635556" seo="true" ref="photography">
@@ -250,7 +250,7 @@
     <file name="3c241a_9ea12b951b21464fa52c2cdf869bb35b-mv2_d_4928_3264_s_4_2310x205.jpg" crc="4263958711" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="3c241a_ae721c7f9f50453eb7ff7e2a131fcb14-mv2_d_3264_4928_s_4_2-crop-u10657.jpg" crc="124689175" seo="true" ref="photography">
+    <file name="3c241a_ae721c7f9f50453eb7ff7e2a131fcb14-mv2_d_3264_4928_s_4_2-crop-u10657.jpg" crc="62521108" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="3c241a_d46539d2968247cca3ca64aa551019b5-mv2_d_4928_3264_s_4_2310x205.jpg" crc="4280821677" seo="true" ref="photography">
@@ -292,7 +292,7 @@
     <file name="3c241a_f62d9d9037214a53b3d17db08c16e34d-mv2_d_6016_4000_s_4_2.jpg" crc="378050601" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="3c241a_06ade742fe0644bb9c0e1c4b40c24022-mv2_d_4000_6016_s_4_2-crop-u13871.jpg" crc="413530253" seo="true" ref="photography">
+    <file name="3c241a_06ade742fe0644bb9c0e1c4b40c24022-mv2_d_4000_6016_s_4_2-crop-u13871.jpg" crc="393779440" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="3c241a_8c3efa3a3fd44351aa16876bfb89b8bd-mv2_d_6016_4000_s_4_2298x199.jpg" crc="3962262692" seo="true" ref="photography">
@@ -310,7 +310,7 @@
     <file name="3c241a_80710e733b324e32a660c95dfe76fe4c-mv2_d_6016_4000_s_4_2298x199.jpg" crc="4245166366" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="3c241a_a0a8fbdaae3d47c59de947be55e2ae3c-mv2_d_4000_6016_s_4_2-crop-u13991.jpg" crc="478866964" seo="true" ref="photography">
+    <file name="3c241a_a0a8fbdaae3d47c59de947be55e2ae3c-mv2_d_4000_6016_s_4_2-crop-u13991.jpg" crc="204824794" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="3c241a_b8d6536f994d4b8eb9424175ec782773-mv2_d_6016_4000_s_4_2298x199.jpg" crc="4199297262" seo="true" ref="photography">
@@ -352,7 +352,7 @@
     <file name="3c241a_7de8218e0ca2483e9a3676bc2f561070-mv2_d_6016_4000_s_4_2298x199.jpg" crc="39785044" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="3c241a_83df8ea02dc443cd844ba2ec348be5ef-mv2_d_4361_4000_s_4_2-crop-u14154.jpg" crc="4248134447" seo="true" ref="photography">
+    <file name="3c241a_83df8ea02dc443cd844ba2ec348be5ef-mv2_d_4361_4000_s_4_2-crop-u14154.jpg" crc="4098267937" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="3c241a_4322a7b20d734fb58faf5dcc14a0105c-mv2_d_6016_4000_s_4_2298x199.jpg" crc="170082882" seo="true" ref="photography">
@@ -415,7 +415,7 @@
     <file name="victoria12.jpg" crc="4264181473" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="victoria13-crop-u18397.jpg" crc="4259294607" seo="true" ref="photography">
+    <file name="victoria13-crop-u18397.jpg" crc="190743528" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="victoria14.jpg" crc="4165317923" seo="true" ref="photography">
@@ -439,7 +439,7 @@
     <file name="victoria12291x194.jpg" crc="4201123937" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="victoria13-crop-u18403.jpg" crc="4057540352" seo="true" ref="photography">
+    <file name="victoria13-crop-u18403.jpg" crc="319776845" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="victoria14291x194.jpg" crc="369279190" seo="true" ref="photography">
@@ -458,9 +458,9 @@
       <caption webpage="graphic-design" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4216900940" seo="true" mt="1500511424472" redirect="true"/>
+  <file name="index.html" crc="4133329814" seo="true" mt="1513914578858" redirect="true"/>
   <file name="bbp.html" crc="468629240" seo="true" mt="1502082416652" redirect="true"/>
-  <file name="photography.html" crc="4061719825" seo="true" mt="1500515763516" redirect="true"/>
+  <file name="photography.html" crc="159476491" seo="true" mt="1513884500476" redirect="true"/>
   <file name="video.html" crc="3849718009" seo="true" mt="1500512754608" redirect="true"/>
   <file name="graphic-design.html" crc="313633976" seo="true" mt="1502019295181" redirect="true"/>
 </manifest>
