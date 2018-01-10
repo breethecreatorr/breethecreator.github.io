@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1513914593878">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1515563102071">
   <folder name="css">
     <file name="site_global.css" crc="4210571852"/>
     <file name="photography.css" crc="3805622318" ref="photography"/>
     <file name="graphic-design.css" crc="346901042" ref="graphic-design"/>
     <file name="bbp.css" crc="4141288988" ref="bbp"/>
     <file name="video.css" crc="151744905" ref="video"/>
-    <file name="index.css" crc="25534745" ref="index"/>
+    <file name="index.css" crc="177372787" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bbp:photography:video:graphic-design"/>
@@ -38,26 +38,26 @@
     <file name="twitter.png" crc="4078170562" ref="index:bbp:photography:video:graphic-design">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="bbp" alt=""/>
       <caption webpage="bbp" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
     </file>
     <file name="youtube.png" crc="402982861" ref="index:bbp:photography:video:graphic-design">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="bbp" alt=""/>
       <caption webpage="bbp" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
     </file>
     <file name="u9512-4.png" crc="4030177021" ref="bbp"/>
     <file name="u7881-4.png" crc="159155168" ref="bbp"/>
@@ -458,7 +458,7 @@
       <caption webpage="graphic-design" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4133329814" seo="true" mt="1513914578858" redirect="true"/>
+  <file name="index.html" crc="517944874" seo="true" mt="1515563057191" redirect="true"/>
   <file name="bbp.html" crc="468629240" seo="true" mt="1502082416652" redirect="true"/>
   <file name="photography.html" crc="159476491" seo="true" mt="1513884500476" redirect="true"/>
   <file name="video.html" crc="3849718009" seo="true" mt="1500512754608" redirect="true"/>
