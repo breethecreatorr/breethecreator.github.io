@@ -1,26 +1,26 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1515563102071">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Breethecreatorr.io" resolutions="1x" timestamp="1515728796013">
   <folder name="css">
-    <file name="site_global.css" crc="4210571852"/>
-    <file name="photography.css" crc="3805622318" ref="photography"/>
-    <file name="graphic-design.css" crc="346901042" ref="graphic-design"/>
-    <file name="bbp.css" crc="4141288988" ref="bbp"/>
-    <file name="video.css" crc="151744905" ref="video"/>
-    <file name="index.css" crc="177372787" ref="index"/>
+    <file name="site_global.css" crc="85414415"/>
+    <file name="photography.css" crc="162081514" ref="photography"/>
+    <file name="graphic-design.css" crc="3908902641" ref="graphic-design"/>
+    <file name="video.css" crc="4108820760" ref="video"/>
+    <file name="bbp.css" crc="430636896" ref="bbp"/>
+    <file name="index.css" crc="4220891173" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bbp:photography:video:graphic-design"/>
-    <file name="museutils.js" crc="4216313831" ref="index:bbp:photography:video:graphic-design"/>
+    <file name="museutils.js" crc="3803043152" ref="index:bbp:photography:video:graphic-design"/>
     <file name="whatinput.js" crc="86476730" ref="index:bbp:photography:video:graphic-design"/>
-    <file name="museconfig.js" crc="4177022356" ref="index:bbp:photography:video:graphic-design"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:bbp:photography:video:graphic-design"/>
-    <file name="jquery.musemenu.js" crc="493622299" ref="index:bbp:photography:video:graphic-design"/>
-    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:bbp:photography:video:graphic-design"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:bbp:photography:video:graphic-design"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:bbp:photography:video:graphic-design"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:bbp:photography:video:graphic-design"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:bbp:photography:video:graphic-design"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:bbp:photography:video:graphic-design"/>
-    <file name="require.js" crc="3951022091" ref="index:bbp:photography:video:graphic-design"/>
-    <file name="webpro.js" crc="4143865194" ref="photography:graphic-design"/>
-    <file name="musewpslideshow.js" crc="3781122836" ref="photography:graphic-design"/>
-    <file name="jquery.museoverlay.js" crc="4030747646" ref="photography:graphic-design"/>
-    <file name="touchswipe.js" crc="4200445185" ref="photography:graphic-design"/>
+    <file name="require.js" crc="4157109226" ref="index:bbp:photography:video:graphic-design"/>
+    <file name="webpro.js" crc="242022427" ref="photography:graphic-design"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="photography:graphic-design"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="photography:graphic-design"/>
+    <file name="touchswipe.js" crc="4066113679" ref="photography:graphic-design"/>
   </folder>
   <folder name="images">
     <file name="3c241a_e2ceb511848f4874bb81c748fa2773e4.jpg" crc="247215801" seo="true" ref="index">
@@ -38,31 +38,31 @@
     <file name="twitter.png" crc="4078170562" ref="index:bbp:photography:video:graphic-design">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="bbp" alt=""/>
-      <caption webpage="bbp" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="bbp" alt=""/>
+      <caption webpage="bbp" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="youtube.png" crc="402982861" ref="index:bbp:photography:video:graphic-design">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="bbp" alt=""/>
-      <caption webpage="bbp" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="bbp" alt=""/>
+      <caption webpage="bbp" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="u9512-4.png" crc="4030177021" ref="bbp"/>
     <file name="u7881-4.png" crc="159155168" ref="bbp"/>
-    <file name="u7882-4.png" crc="397778813" ref="bbp"/>
     <file name="u7883-4.png" crc="519107872" ref="bbp"/>
+    <file name="u7882-4.png" crc="397778813" ref="bbp"/>
     <file name="u7884-4.png" crc="4036765770" ref="bbp"/>
     <file name="u7913-4.png" crc="463300855" ref="bbp"/>
     <file name="3c241a_6af4fb566bc44fdd808374aa6c2b8d1e.jpg" crc="4121037474" seo="true" ref="photography">
@@ -373,30 +373,6 @@
     <file name="3c241a_ea710a28ae694bb8b6137b9c0f5d503b-mv2_d_6016_4000_s_4_2298x199.jpg" crc="4276218781" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="3c241a_8e0a6b9a333844ce861f2a6b2fcad2df.jpg" crc="4241076961" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="3c241a_43b48c9573ad481e9d17464f49cf6dc4.jpg" crc="4141157601" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="3c241a_105d8fc6710f447db4f54ebefb2b39ba.jpg" crc="382609808" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="3c241a_445bfbcea55145689d2f1a44cabc65a9.jpg" crc="4280460197" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="3c241a_8e0a6b9a333844ce861f2a6b2fcad2df-crop-u8934.jpg" crc="70460485" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="3c241a_43b48c9573ad481e9d17464f49cf6dc4-crop-u8942.jpg" crc="43153721" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="3c241a_105d8fc6710f447db4f54ebefb2b39ba325x210.jpg" crc="12728215" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="3c241a_445bfbcea55145689d2f1a44cabc65a9325x210.jpg" crc="4257247001" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
     <file name="victoria2.jpg" crc="59613683" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
@@ -445,10 +421,34 @@
     <file name="victoria14291x194.jpg" crc="369279190" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
+    <file name="3c241a_8e0a6b9a333844ce861f2a6b2fcad2df.jpg" crc="4241076961" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="3c241a_43b48c9573ad481e9d17464f49cf6dc4.jpg" crc="4141157601" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="3c241a_105d8fc6710f447db4f54ebefb2b39ba.jpg" crc="382609808" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="3c241a_445bfbcea55145689d2f1a44cabc65a9.jpg" crc="4280460197" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
     <file name="erica-pinkett flyer.jpg" crc="403127449" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="denasiabdayflyer.jpg" crc="177162696" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="3c241a_8e0a6b9a333844ce861f2a6b2fcad2df-crop-u8934.jpg" crc="70460485" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="3c241a_43b48c9573ad481e9d17464f49cf6dc4-crop-u8942.jpg" crc="43153721" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="3c241a_105d8fc6710f447db4f54ebefb2b39ba325x210.jpg" crc="12728215" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="3c241a_445bfbcea55145689d2f1a44cabc65a9325x210.jpg" crc="4257247001" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="erica-pinkett flyer315x210.jpg" crc="251535690" seo="true" ref="graphic-design">
@@ -458,9 +458,9 @@
       <caption webpage="graphic-design" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="517944874" seo="true" mt="1515563057191" redirect="true"/>
-  <file name="bbp.html" crc="468629240" seo="true" mt="1502082416652" redirect="true"/>
-  <file name="photography.html" crc="159476491" seo="true" mt="1513884500476" redirect="true"/>
-  <file name="video.html" crc="3849718009" seo="true" mt="1500512754608" redirect="true"/>
-  <file name="graphic-design.html" crc="313633976" seo="true" mt="1502019295181" redirect="true"/>
+  <file name="index.html" crc="122185805" seo="true" mt="1515728720809" redirect="true"/>
+  <file name="bbp.html" crc="3855240454" seo="true" mt="1502082416652" redirect="true"/>
+  <file name="photography.html" crc="4107693410" seo="true" mt="1513884500476" redirect="true"/>
+  <file name="video.html" crc="493912960" seo="true" mt="1500512754608" redirect="true"/>
+  <file name="graphic-design.html" crc="463806462" seo="true" mt="1502019295181" redirect="true"/>
 </manifest>

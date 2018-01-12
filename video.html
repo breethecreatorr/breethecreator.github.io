@@ -3,7 +3,7 @@
  <head>
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-  <meta name="generator" content="2017.0.4.363"/>
+  <meta name="generator" content="2018.0.0.379"/>
   
   <script type="text/javascript">
    // Update the 'nojs'/'js' class on the html node
@@ -15,8 +15,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>Video</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4092484445"/>
-  <link rel="stylesheet" type="text/css" href="css/video.css?crc=151744905" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=85414415"/>
+  <link rel="stylesheet" type="text/css" href="css/video.css?crc=4108820760" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -160,18 +160,19 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
-Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u7995-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,0.05]},{"speed":[null,0],"in":[0.05,Infinity]}]);/* scroll effect */
-$('#u7995').registerOpacityScrollEffect([{"opacity":0,"fade":50,"in":[-Infinity,0.05]},{"opacity":100,"in":[0.05,0.05]},{"opacity":100,"fade":50,"in":[0.05,Infinity]}]);/* scroll effect */
+$('#u7995').registerOpacityScrollEffect([{"in":[-Infinity,0.05],"fade":50,"opacity":0},{"opacity":100,"in":[0.05,0.05]},{"in":[0.05,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
 $('#menuu9240').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-2]},{"speed":[0,0],"in":[-2,Infinity]}]);/* scroll effect */
-$('#menuu9240').registerOpacityScrollEffect([{"opacity":0,"fade":50,"in":[-Infinity,-2]},{"opacity":100,"in":[-2,-2]},{"opacity":100,"fade":50,"in":[-2,Infinity]}]);/* scroll effect */
+$('#menuu9240').registerOpacityScrollEffect([{"in":[-Infinity,-2],"fade":50,"opacity":0},{"opacity":100,"in":[-2,-2]},{"in":[-2,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
 </script>
   <!-- RequireJS script -->
-  <script src="scripts/require.js?crc=3951022091" type="text/javascript" async data-main="scripts/museconfig.js?crc=4177022356" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  <script src="scripts/require.js?crc=4157109226" type="text/javascript" async data-main="scripts/museconfig.js?crc=4153641093" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
    </body>
 </html>

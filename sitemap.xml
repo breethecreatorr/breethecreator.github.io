@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://Breethecreatorr.io/index.html</loc>
-    <lastmod>2018-01-10</lastmod>
+    <lastmod>2018-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -408,6 +408,12 @@
       <image:loc>http://Breethecreatorr.io/images/3c241a_445bfbcea55145689d2f1a44cabc65a9.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://Breethecreatorr.io/images/erica-pinkett%20flyer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Breethecreatorr.io/images/denasiabdayflyer.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_8e0a6b9a333844ce861f2a6b2fcad2df-crop-u8934.jpg</image:loc>
     </image:image>
     <image:image>
@@ -418,12 +424,6 @@
     </image:image>
     <image:image>
       <image:loc>http://Breethecreatorr.io/images/3c241a_445bfbcea55145689d2f1a44cabc65a9325x210.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/erica-pinkett%20flyer.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Breethecreatorr.io/images/denasiabdayflyer.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://Breethecreatorr.io/images/erica-pinkett%20flyer315x210.jpg</image:loc>
